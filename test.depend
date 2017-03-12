@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1489099963 source:c:\users\george\downloads\shid\test\main.cpp
+1489278648 source:c:\users\george\downloads\shid\test\main.cpp
 	<SFML/Graphics.hpp>
+	"MonsterCard.hpp"
 
 1486736397 c:\sfml\include\sfml\graphics.hpp
 	<SFML/Window.hpp>
@@ -389,4 +390,13 @@
 	<SFML/System/String.hpp>
 	<string>
 	<vector>
+
+1489277577 c:\users\george\downloads\shid\test\monstercard.hpp
+	<SFML/Graphics.hpp>
+
+1489277596 source:c:\users\george\downloads\shid\test\monstercard.cpp
+	<string>
+	<sstream>
+	<SFML/Graphics.hpp>
+	"MonsterCard.hpp"
 
