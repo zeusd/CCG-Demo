@@ -48,6 +48,8 @@
 		<Linker>
 			<Add directory="C:/SFML/lib" />
 		</Linker>
+		<Unit filename="MonsterCard.cpp" />
+		<Unit filename="MonsterCard.hpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
